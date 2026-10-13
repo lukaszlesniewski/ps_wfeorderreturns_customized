@@ -1,2 +1,4 @@
 # ps_wfeorderreturns_customized
-Pliki dla modułu Order Returns, które dostosowują go do wymogów dyrektywy UE 2023/2673
+Zmodyfikowane pliki dla modułu wfeorderreturns, które dostosowują go do obowiązującego prawa.
+
+Zmiana polega na liczeniu dni na zwrot nie od daty złożenia zamówienia, a od daty dostarczenia/odebrania (data nadania status Dostarczone (ID 5) lub Odebrane (ID 35)).
